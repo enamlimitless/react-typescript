@@ -1,0 +1,16 @@
+.row{
+    display: flex;
+    align-items: baseline;
+}
+.row h2{
+    margin: 0;
+    margin-right: 10px;
+}
+.row p{
+    margin: 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.deleteBtn{
+    background: rgb(143, 21, 21);
+}
